@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*header start*/
+
+.header {
+    width: 100%;
+    min-height: 70px;
+    background-color: brown;
+    overflow: hidden;
+}
+
+.logo {
+    width: 20%;
+    min-height: 70px;
+    background-color: bisque;
+    float: left;
+    overflow: hidden;
+}
+
+.nav {
+    width: 50%;
+    min-height: 70px;
+    background-color: burlywood;
+    float: right;
+}
+
+/*header end*/
+
+/*banner start*/
+
+.banner {
+    width: 100%;
+    min-height: 250px;
+    background-color: lightblue;
+    overflow: hidden;
+}
+
+.text {
+    width: 60%;
+    min-height: 150px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 45px;
+}
+
+/*banner end*/
+
+/*service start*/
+
+.service {
+    width: 100%;
+    min-height: 400px;
+    background-color: dimgray;
+    overflow: hidden;
+}
+
+.service_top {
+    width: 100%;
+    min-height: 300px;
+    overflow: hidden;
+
+}
+
+.service_box {
+    width: 20%;
+    min-height: 250px;
+    background-color: rosybrown;
+    overflow: hidden;
+    float: left;
+    margin-left: 50px;
+    margin-top: 15px;
+
+}
+
+.service_header {
+    width: 100%;
+    min-height: 50px;
+    background-color: blueviolet;
+    overflow: hidden;
+}
+
+.service_logo {
+    width: 15%;
+    min-height: 50px;
+    background-color: cadetblue;
+    float: left;
+
+}
+
+.service_name {
+    width: 50%;
+    min-height: 50px;
+    background-color: dodgerblue;
+    float: right;
+}
+
+.service_body {
+    width: 80%;
+    min-height: 150px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.service_button {
+    text-align: center;
+}
+
+.service_bottom {
+    width: 90%;
+    min-height: 80px;
+    background-color: brown;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.social_media {
+    width: 15%;
+    min-height: 60px;
+    background-color: cadetblue;
+    float: left;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+
+
+/*service end*/
